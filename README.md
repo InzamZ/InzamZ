@@ -1,7 +1,7 @@
-### Hi there ,here is InzamZ👋
+# Hi there ,here is InzamZ👋
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=InzamZ&show_icons=true&theme=gotham">
 
-#### Languages
+## Languages
 
 <!-- languages:start -->
 <!-- prettier-ignore-start -->
@@ -15,7 +15,7 @@
 <!-- prettier-ignore-end -->
 <!-- languages:end -->
 
-#### Frameworks and Tools
+## Frameworks and Tools
 
 <!-- tools:start -->
 <!-- prettier-ignore-start -->
@@ -26,6 +26,19 @@
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- tools:end -->
+
+## Interested
+
+<!-- interested:start -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<code><img height="20" src="https://img.inzamz.top/GithubMe/Soccer%20Ball.svg" alt="soccer" /></code>
+<code><img height="20" src="https://img.inzamz.top/GithubMe/Genshin-Impact.svg" alt="Genshin" /></code>
+<code><img height="20" src="https://img.inzamz.top/GithubMe/HollowKnight.svg" alt="HollowKnight" /></code>
+<code><img height="20" src="https://img.inzamz.top/GithubMe/CivilizationVI.png" alt="CivilizationVI" /></code>
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+<!-- interested:end -->
 
 > By the way, are you also curious about how to generate the list?
 > I write a script to generate it automatically. You can see [YunYouJun/YunYouJun](https://github.com/YunYouJun/YunYouJun).
