@@ -1,5 +1,5 @@
 # Hi there ,here is InzamZ👋
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=InzamZ&show_icons=true&theme=gotham">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=InzamZ&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
 ## Languages
 
