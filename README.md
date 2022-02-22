@@ -1,6 +1,4 @@
 # Hi there ,here is InzamZ👋
-<a href="https://github.com/InzamZ/iBeats"><img align="right" width="150px" src="https://raw.githubusercontent.com/InzamZ/iBeats/main/files/heart.svg"/></a>
-<br>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=InzamZ&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
 ## Languages
@@ -42,5 +40,6 @@
 <!-- prettier-ignore-end -->
 <!-- interested:end -->
 
+<a href="https://github.com/InzamZ/iBeats"><img align="right" width="150px" src="https://raw.githubusercontent.com/InzamZ/iBeats/main/files/heart.svg"/></a>
 > By the way, are you also curious about how to generate the list?
 > I write a script to generate it automatically. You can see [YunYouJun/YunYouJun](https://github.com/YunYouJun/YunYouJun).
