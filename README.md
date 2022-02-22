@@ -1,5 +1,6 @@
 # Hi there ,here is InzamZ👋
 <a href="https://github.com/InzamZ/iBeats"><img align="right" width="150px" src="https://raw.githubusercontent.com/InzamZ/iBeats/main/files/heart.svg"/></a>
+<br>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=InzamZ&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
 ## Languages
