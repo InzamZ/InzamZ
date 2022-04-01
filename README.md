@@ -49,7 +49,7 @@
 ![](https://github.com/InzamZ/GitHubPoster/blob/main/OUT_FOLDER/bilibili.svg)
 ![](https://github.com/InzamZ/GitHubPoster/blob/main/OUT_FOLDER/twitter.svg)
 ![](https://github.com/InzamZ/GitHubPoster/blob/main/OUT_FOLDER/leetcode.svg)
-![](https://github.com/InzamZ/GitHubPoster/blob/main/OUT_FOLDER/duolinguo.svg)
+![](https://github.com/InzamZ/GitHubPoster/blob/main/OUT_FOLDER/duolingo.svg)
 ![](https://github.com/InzamZ/GitHubPoster/blob/main/OUT_FOLDER/github.svg)
 
 
