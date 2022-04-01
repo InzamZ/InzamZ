@@ -43,3 +43,16 @@
 
 > By the way, are you also curious about how to generate the list?
 > I write a script to generate it automatically. You can see [YunYouJun/YunYouJun](https://github.com/YunYouJun/YunYouJun).
+
+## Something of me
+
+![](https://github.com/InzamZ/GitHubPoster/blob/main/OUT_FOLDER/bilibili.svg)
+![](https://github.com/InzamZ/GitHubPoster/blob/main/OUT_FOLDER/twitter.svg)
+![](https://github.com/InzamZ/GitHubPoster/blob/main/OUT_FOLDER/leetcode.svg)
+![](https://github.com/InzamZ/GitHubPoster/blob/main/OUT_FOLDER/duolinguo.svg)
+![](https://github.com/InzamZ/GitHubPoster/blob/main/OUT_FOLDER/github.svg)
+
+
+> By the way, are you also curious about how to generate the svg?
+> You can see [yihong0618/GitHubPoster](https://github.com/yihong0618/GitHubPoster).
+
