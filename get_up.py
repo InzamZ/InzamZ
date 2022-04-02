@@ -65,21 +65,21 @@ def main(github_token, repo_name, weather_message, tele_token, tele_chat_id):
     if weather_message:
         weather_message = f"现在的天气是{weather_message}\n"
         body = weather_message + early_message
-    if is_get_up_early:
-        issue.create_comment(body)
-        # send to telegram
-        if tele_token and tele_chat_id:
-            requests.post(
-                url="https://api.telegram.org/bot{0}/{1}".format(
-                    tele_token, "sendMessage"
-                ),
-                data={
-                    "chat_id": tele_chat_id,
-                    "text": body,
-                },
-            )
-    else:
-        print("You wake up late")
+    if not is_get_up_early:
+        body += "\n" + "起晚了,早点睡吧"
+
+    issue.create_comment(body)
+    # send to telegram
+    if tele_token and tele_chat_id:
+        requests.post(
+            url="https://api.telegram.org/bot{0}/{1}".format(
+                tele_token, "sendMessage"
+            ),
+            data={
+                "chat_id": tele_chat_id,
+                "text": body,
+            },
+        )
 
 
 if __name__ == "__main__":
