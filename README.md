@@ -46,7 +46,7 @@
 
 ## Something of me
 
-![](https://github.com/InzamZ/GitHubPoster/blob/master/OUT_FOLDER/strava.svg)
+![](https://github.com/InzamZ/GitHubPoster/blob/master/OUT_FOLDER/strava_circular.svg)
 
 ![](https://github.com/InzamZ/GitHubPoster/blob/master/OUT_FOLDER/bilibili.svg)
 ![](https://github.com/InzamZ/GitHubPoster/blob/master/OUT_FOLDER/twitter.svg)
