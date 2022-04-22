@@ -46,13 +46,13 @@
 
 ## Something of me
 
-![](https://github.com/InzamZ/GitHubPoster/blob/master/OUT_FOLDER/strava_circular.svg)
+![](https://github.com/InzamZ/GitHubPoster/blob/master/examples/strava_circular.svg)
 
-![](https://github.com/InzamZ/GitHubPoster/blob/master/OUT_FOLDER/bilibili.svg)
-![](https://github.com/InzamZ/GitHubPoster/blob/master/OUT_FOLDER/twitter.svg)
-![](https://github.com/InzamZ/GitHubPoster/blob/master/OUT_FOLDER/leetcode.svg)
-![](https://github.com/InzamZ/GitHubPoster/blob/master/OUT_FOLDER/duolingo.svg)
-![](https://github.com/InzamZ/GitHubPoster/blob/master/OUT_FOLDER/github.svg)
+![](https://github.com/InzamZ/GitHubPoster/blob/master/examples/bilibili.svg)
+![](https://github.com/InzamZ/GitHubPoster/blob/master/examples/twitter.svg)
+![](https://github.com/InzamZ/GitHubPoster/blob/master/examples/leetcode.svg)
+![](https://github.com/InzamZ/GitHubPoster/blob/master/examples/duolingo.svg)
+![](https://github.com/InzamZ/GitHubPoster/blob/master/examples/github.svg)
 
 
 > By the way, are you also curious about how to generate the svg?
