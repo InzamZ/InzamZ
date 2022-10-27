@@ -48,9 +48,7 @@
 
 ![](https://github.com/InzamZ/GitHubPoster/blob/master/examples/strava_circular.svg)
 
-![](https://github.com/InzamZ/GitHubPoster/blob/master/examples/bilibili.svg)
 ![](https://github.com/InzamZ/GitHubPoster/blob/master/examples/twitter.svg)
-![](https://github.com/InzamZ/GitHubPoster/blob/master/examples/leetcode.svg)
 ![](https://github.com/InzamZ/GitHubPoster/blob/master/examples/duolingo.svg)
 ![](https://github.com/InzamZ/GitHubPoster/blob/master/examples/github.svg)
 
