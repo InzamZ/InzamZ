@@ -45,7 +45,7 @@
 > I write a script to generate it automatically. You can see [YunYouJun/YunYouJun](https://github.com/YunYouJun/YunYouJun).
 
 ## Something of me
-![](https://github.com/InzamZ/GitHubPoster/blob/master/examples/strava_circular.svg)
+![](https://github.com/InzamZ/GitHubPoster/blob/master/OUT_FOLDER/strava_circular.svg)
 
 > By the way, are you also curious about how to generate the svg?
 > You can see [yihong0618/GitHubPoster](https://github.com/yihong0618/GitHubPoster).
